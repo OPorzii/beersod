@@ -5,6 +5,5 @@ def findArea():
     return area
 #Test Comment 6789
 #test di sus
-#function
 
 print(findArea())
